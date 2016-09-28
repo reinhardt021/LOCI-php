@@ -9,8 +9,9 @@ Documentation for the app about post it notes on a wall :)
 open source
 
  
-## Contributing
-launch server 
+## Launching Server
+
+Run the following command within the command line to launch server:
 
 ``` 
 php artisan serve
